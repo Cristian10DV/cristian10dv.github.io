@@ -1,4 +1,4 @@
-# Cristian Hidalgo Lozano Portfolio
+# Cristian Hidalgo Lozano - Portfolio
 
 ![Portfolio Screenshot](images/fondo.png)
 
